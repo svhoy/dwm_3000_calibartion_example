@@ -1,4 +1,3 @@
-import itertools
 import numpy as np
 
 global perturbation_limit
